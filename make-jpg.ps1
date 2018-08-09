@@ -16,3 +16,6 @@ foreach ($item in $folderListing) {
 }
 
 $null > $PSScriptRoot\lastChecked.pso
+
+
+explorer $PSScriptRoot\files\
