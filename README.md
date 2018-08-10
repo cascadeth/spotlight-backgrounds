@@ -1,2 +1,2 @@
 # spotlight-backgrounds
-Powershell script to pull the "assets" that are Microsoft's Spotlight photos (lock screen)
+Powershell script to pull the current "assets" that are Microsoft's Spotlight photos (lock screen), currently found on the device. 
